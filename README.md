@@ -12,7 +12,7 @@ Visit the [demopage](https://bogihsu.github.io/WG-WaveNet/) for audio samples.
 
 ## Requirements
 - Python >= 3.5.2
-- torch >= 1.0.0
+- torch >= 1.4.0
 - numpy
 - scipy
 - pickle
