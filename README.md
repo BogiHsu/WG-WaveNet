@@ -1,4 +1,4 @@
-## WG-WaveNet: Real-Time High-Fidelity Speech Synthesis without GPU
+# WG-WaveNet: Real-Time High-Fidelity Speech Synthesis without GPU
 
 ### Po-chun Hsu, Hung-yi Lee
 
