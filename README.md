@@ -1,1 +1,1 @@
-# WG-WaveNet
+# WaveGlow
