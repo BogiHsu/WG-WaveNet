@@ -25,7 +25,7 @@ Visit the [demopage](https://bogihsu.github.io/WG-WaveNet/) for audio samples.
 ## Training
 1. Download [LJ Speech](https://keithito.com/LJ-Speech-Dataset/). In this example it's in `data/`
 
-2. For training Tacotron2, run the following command.
+2. For training, run the following command.
 
 ```bash
 python3 train.py --data_dir=<dir/to/dataset> --ckpt_dir=<dir/to/models>
